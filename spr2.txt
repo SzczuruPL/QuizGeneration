@@ -1,0 +1,278 @@
+Imię i nazwisko:
+
+Data:
+
+Semestr:
+
+		Stolice - sprawdzian (Formularz 2)
+
+1. Jaką stolicę ma państwo Estonia?
+	A. Tallin
+	B. Vaduz
+	C. Praga
+	D. Moskwa
+
+2. Jaką stolicę ma państwo Wielka Brytania?
+	A. Praga
+	B. Londyn
+	C. Madryt
+	D. Belgrad
+
+3. Jaką stolicę ma państwo Watykan?
+	A. Berlin
+	B. Wilno
+	C. Watykan
+	D. Kiszyniów
+
+4. Jaką stolicę ma państwo Chorwacja?
+	A. Luksemburg
+	B. Rzym
+	C. Lizbona
+	D. Zagrzeb
+
+5. Jaką stolicę ma państwo Malta?
+	A. Luksemburg
+	B. Oslo
+	C. Valletta
+	D. Rzym
+
+6. Jaką stolicę ma państwo Andora?
+	A. Tallin
+	B. Dublin
+	C. Andorra la Vella
+	D. Prisztina
+
+7. Jaką stolicę ma państwo Rumunia?
+	A. Monako
+	B. Budapeszt
+	C. Bukareszt
+	D. Kijów
+
+8. Jaką stolicę ma państwo Szwecja?
+	A. Sztokholm
+	B. Moskwa
+	C. Kiszyniów
+	D. Helsinki
+
+9. Jaką stolicę ma państwo Węgry?
+	A. Podgorica
+	B. Budapeszt
+	C. Paryż
+	D. Wilno
+
+10. Jaką stolicę ma państwo Belgia?
+	A. Skopje
+	B. Helsinki
+	C. Zagrzeb
+	D. Bruksela
+
+11. Jaką stolicę ma państwo Irlandia?
+	A. Lublana
+	B. San Marino
+	C. Dublin
+	D. Rejkiawik
+
+12. Jaką stolicę ma państwo Litwa?
+	A. Moskwa
+	B. Tallin
+	C. Wilno
+	D. Kiszyniów
+
+13. Jaką stolicę ma państwo Łotwa?
+	A. Mińsk
+	B. Ryga
+	C. Valletta
+	D. Moskwa
+
+14. Jaką stolicę ma państwo Holandia?
+	A. Lublana
+	B. Amsterdam
+	C. Zagrzeb
+	D. Tirana
+
+15. Jaką stolicę ma państwo Kosowo?
+	A. Prisztina
+	B. Kijów
+	C. Wilno
+	D. Amsterdam
+
+16. Jaką stolicę ma państwo Białoruś?
+	A. Mińsk
+	B. Podgorica
+	C. Londyn
+	D. San Marino
+
+17. Jaką stolicę ma państwo Niemcy?
+	A. Podgorica
+	B. Praga
+	C. Dublin
+	D. Berlin
+
+18. Jaką stolicę ma państwo Norwegia?
+	A. Madryt
+	B. Lublana
+	C. Oslo
+	D. Dublin
+
+19. Jaką stolicę ma państwo Liechtenstein?
+	A. Podgorica
+	B. Vaduz
+	C. Londyn
+	D. Lizbona
+
+20. Jaką stolicę ma państwo Islandia?
+	A. Rejkiawik
+	B. Monako
+	C. Ryga
+	D. Kijów
+
+21. Jaką stolicę ma państwo Mołdawia?
+	A. Bratysława
+	B. Warszawa
+	C. Oslo
+	D. Kiszyniów
+
+22. Jaką stolicę ma państwo Rosja?
+	A. Moskwa
+	B. Rzym
+	C. Londyn
+	D. San Marino
+
+23. Jaką stolicę ma państwo Portugalia?
+	A. Sarajewo
+	B. Lizbona
+	C. Berlin
+	D. Praga
+
+24. Jaką stolicę ma państwo Szwajcaria?
+	A. Berno
+	B. Bruksela
+	C. Bukareszt
+	D. Skopje
+
+25. Jaką stolicę ma państwo Finlandia?
+	A. Praga
+	B. Lublana
+	C. Helsinki
+	D. Valletta
+
+26. Jaką stolicę ma państwo Luksemburg?
+	A. Rzym
+	B. Wilno
+	C. Zagrzeb
+	D. Luksemburg
+
+27. Jaką stolicę ma państwo Grecja?
+	A. Sztokholm
+	B. Bukareszt
+	C. Ateny
+	D. Vaduz
+
+28. Jaką stolicę ma państwo Monako?
+	A. Monako
+	B. Bruksela
+	C. Lublana
+	D. Andorra la Vella
+
+29. Jaką stolicę ma państwo Polska?
+	A. Wilno
+	B. Oslo
+	C. Helsinki
+	D. Warszawa
+
+30. Jaką stolicę ma państwo Czechy?
+	A. San Marino
+	B. Rejkiawik
+	C. Praga
+	D. Sarajewo
+
+31. Jaką stolicę ma państwo Dania?
+	A. Tirana
+	B. Amsterdam
+	C. Prisztina
+	D. Kopenhaga
+
+32. Jaką stolicę ma państwo Albania?
+	A. Bruksela
+	B. Sztokholm
+	C. Belgrad
+	D. Tirana
+
+33. Jaką stolicę ma państwo Bułgaria?
+	A. Wilno
+	B. Monako
+	C. Sofia
+	D. Rejkiawik
+
+34. Jaką stolicę ma państwo Ukraina?
+	A. Bratysława
+	B. Wiedeń
+	C. Wilno
+	D. Kijów
+
+35. Jaką stolicę ma państwo Słowenia?
+	A. Mińsk
+	B. Rzym
+	C. Lublana
+	D. Podgorica
+
+36. Jaką stolicę ma państwo Austria?
+	A. Monako
+	B. Wiedeń
+	C. Moskwa
+	D. Belgrad
+
+37. Jaką stolicę ma państwo Włochy?
+	A. Ateny
+	B. Bruksela
+	C. Monako
+	D. Rzym
+
+38. Jaką stolicę ma państwo Macedonia?
+	A. Londyn
+	B. Skopje
+	C. Ryga
+	D. Helsinki
+
+39. Jaką stolicę ma państwo Serbia?
+	A. Oslo
+	B. Belgrad
+	C. Tirana
+	D. Warszawa
+
+40. Jaką stolicę ma państwo Bośni i Hercegowina?
+	A. Sarajewo
+	B. Warszawa
+	C. Skopje
+	D. Paryż
+
+41. Jaką stolicę ma państwo Słowacja?
+	A. Budapeszt
+	B. Kopenhaga
+	C. Bratysława
+	D. Warszawa
+
+42. Jaką stolicę ma państwo San Marino?
+	A. Paryż
+	B. Skopje
+	C. San Marino
+	D. Sarajewo
+
+43. Jaką stolicę ma państwo Hiszpania?
+	A. Kiszyniów
+	B. Wilno
+	C. Madryt
+	D. Praga
+
+44. Jaką stolicę ma państwo Czarnogóra?
+	A. Monako
+	B. Valletta
+	C. Londyn
+	D. Podgorica
+
+45. Jaką stolicę ma państwo Francja?
+	A. Paryż
+	B. Helsinki
+	C. Kopenhaga
+	D. Andorra la Vella
+

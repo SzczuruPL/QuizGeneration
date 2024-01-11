@@ -1,0 +1,278 @@
+Imię i nazwisko:
+
+Data:
+
+Semestr:
+
+		Stolice - sprawdzian (Formularz 1)
+
+1. Jaką stolicę ma państwo Liechtenstein?
+	A. Vaduz
+	B. Oslo
+	C. Watykan
+	D. Luksemburg
+
+2. Jaką stolicę ma państwo Mołdawia?
+	A. Kiszyniów
+	B. Madryt
+	C. Mińsk
+	D. Tallin
+
+3. Jaką stolicę ma państwo Monako?
+	A. Monako
+	B. Wiedeń
+	C. Bruksela
+	D. Helsinki
+
+4. Jaką stolicę ma państwo Wielka Brytania?
+	A. Watykan
+	B. Sarajewo
+	C. Ryga
+	D. Londyn
+
+5. Jaką stolicę ma państwo Estonia?
+	A. Tallin
+	B. Lublana
+	C. Andorra la Vella
+	D. Ryga
+
+6. Jaką stolicę ma państwo Rosja?
+	A. Moskwa
+	B. Bukareszt
+	C. Podgorica
+	D. Madryt
+
+7. Jaką stolicę ma państwo Austria?
+	A. Kopenhaga
+	B. Watykan
+	C. Wiedeń
+	D. Zagrzeb
+
+8. Jaką stolicę ma państwo Białoruś?
+	A. Rzym
+	B. Warszawa
+	C. Mińsk
+	D. Vaduz
+
+9. Jaką stolicę ma państwo Rumunia?
+	A. Monako
+	B. Berno
+	C. Bukareszt
+	D. Valletta
+
+10. Jaką stolicę ma państwo Macedonia?
+	A. Amsterdam
+	B. Wilno
+	C. Skopje
+	D. Watykan
+
+11. Jaką stolicę ma państwo Włochy?
+	A. Berno
+	B. Mińsk
+	C. Rzym
+	D. Kijów
+
+12. Jaką stolicę ma państwo Polska?
+	A. Warszawa
+	B. Kiszyniów
+	C. Monako
+	D. Wiedeń
+
+13. Jaką stolicę ma państwo Litwa?
+	A. Podgorica
+	B. Berno
+	C. Helsinki
+	D. Wilno
+
+14. Jaką stolicę ma państwo Szwecja?
+	A. Bruksela
+	B. Vaduz
+	C. Moskwa
+	D. Sztokholm
+
+15. Jaką stolicę ma państwo Francja?
+	A. Paryż
+	B. Oslo
+	C. Amsterdam
+	D. Dublin
+
+16. Jaką stolicę ma państwo Belgia?
+	A. Bruksela
+	B. Mińsk
+	C. Tallin
+	D. Oslo
+
+17. Jaką stolicę ma państwo Kosowo?
+	A. Prisztina
+	B. Kijów
+	C. Belgrad
+	D. Sztokholm
+
+18. Jaką stolicę ma państwo Węgry?
+	A. Prisztina
+	B. Budapeszt
+	C. Rzym
+	D. Praga
+
+19. Jaką stolicę ma państwo Grecja?
+	A. Oslo
+	B. San Marino
+	C. Madryt
+	D. Ateny
+
+20. Jaką stolicę ma państwo Słowacja?
+	A. Kiszyniów
+	B. Zagrzeb
+	C. Sarajewo
+	D. Bratysława
+
+21. Jaką stolicę ma państwo Serbia?
+	A. Paryż
+	B. Wiedeń
+	C. Belgrad
+	D. Prisztina
+
+22. Jaką stolicę ma państwo Irlandia?
+	A. Budapeszt
+	B. Dublin
+	C. Skopje
+	D. San Marino
+
+23. Jaką stolicę ma państwo Holandia?
+	A. Amsterdam
+	B. Watykan
+	C. Paryż
+	D. Vaduz
+
+24. Jaką stolicę ma państwo Hiszpania?
+	A. Sofia
+	B. Londyn
+	C. Madryt
+	D. San Marino
+
+25. Jaką stolicę ma państwo Czarnogóra?
+	A. Podgorica
+	B. Berlin
+	C. Helsinki
+	D. Budapeszt
+
+26. Jaką stolicę ma państwo Andora?
+	A. Vaduz
+	B. Berlin
+	C. Andorra la Vella
+	D. Sarajewo
+
+27. Jaką stolicę ma państwo Norwegia?
+	A. Sztokholm
+	B. Zagrzeb
+	C. Lublana
+	D. Oslo
+
+28. Jaką stolicę ma państwo Dania?
+	A. Wilno
+	B. Kijów
+	C. Sarajewo
+	D. Kopenhaga
+
+29. Jaką stolicę ma państwo Malta?
+	A. Bukareszt
+	B. Valletta
+	C. Lublana
+	D. Luksemburg
+
+30. Jaką stolicę ma państwo Niemcy?
+	A. Tirana
+	B. Berno
+	C. Berlin
+	D. Kiszyniów
+
+31. Jaką stolicę ma państwo Chorwacja?
+	A. Warszawa
+	B. Wilno
+	C. Zagrzeb
+	D. Bukareszt
+
+32. Jaką stolicę ma państwo Czechy?
+	A. Mińsk
+	B. Zagrzeb
+	C. Praga
+	D. Dublin
+
+33. Jaką stolicę ma państwo Luksemburg?
+	A. Sztokholm
+	B. Podgorica
+	C. Ryga
+	D. Luksemburg
+
+34. Jaką stolicę ma państwo Watykan?
+	A. Tallin
+	B. Watykan
+	C. Prisztina
+	D. Lublana
+
+35. Jaką stolicę ma państwo San Marino?
+	A. Zagrzeb
+	B. Bruksela
+	C. San Marino
+	D. Kiszyniów
+
+36. Jaką stolicę ma państwo Ukraina?
+	A. San Marino
+	B. Sztokholm
+	C. Amsterdam
+	D. Kijów
+
+37. Jaką stolicę ma państwo Bośni i Hercegowina?
+	A. Sztokholm
+	B. Luksemburg
+	C. Sarajewo
+	D. Ryga
+
+38. Jaką stolicę ma państwo Słowenia?
+	A. Sztokholm
+	B. Lublana
+	C. Helsinki
+	D. Rzym
+
+39. Jaką stolicę ma państwo Albania?
+	A. Tirana
+	B. Berlin
+	C. Madryt
+	D. Bratysława
+
+40. Jaką stolicę ma państwo Islandia?
+	A. Berlin
+	B. Rejkiawik
+	C. Tirana
+	D. Ateny
+
+41. Jaką stolicę ma państwo Finlandia?
+	A. Helsinki
+	B. Berno
+	C. Sarajewo
+	D. Belgrad
+
+42. Jaką stolicę ma państwo Portugalia?
+	A. Lizbona
+	B. Dublin
+	C. Tallin
+	D. Ryga
+
+43. Jaką stolicę ma państwo Szwajcaria?
+	A. Bratysława
+	B. Berno
+	C. Rejkiawik
+	D. Lizbona
+
+44. Jaką stolicę ma państwo Bułgaria?
+	A. Sofia
+	B. Rzym
+	C. Warszawa
+	D. Moskwa
+
+45. Jaką stolicę ma państwo Łotwa?
+	A. Sztokholm
+	B. Ryga
+	C. Tirana
+	D. Sarajewo
+
